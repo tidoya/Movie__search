@@ -14,3 +14,5 @@ npm run build
 ```shell
 npm run start 
 ```
+## API
+I took api: https://www.omdbapi.com/
